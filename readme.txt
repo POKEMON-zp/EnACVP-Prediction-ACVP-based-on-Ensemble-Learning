@@ -1,2 +1,2 @@
-代码部分分为常见的机器学习算法代码（RandomForest,Catboost和SVM）和深度学习代码(lstm,1dcnn,bilstm以及他们与attention的结合)
+代码部分分为常见的机器学习算法代码（RandomForest,Catboost,Adaboost和SVM以及他们的特征选择代码）和深度学习代码(lstm,1dcnn,bilstm以及他们与attention的结合)
 数据部分包含数据集经过ilearnplus软件生成的AAC,EAAC,CTDC,EGAAC特征以及使用蛋白质语言模型提取的ESM2特征，他们的组合特征亦在这里，但由于ESM2特征数据集太大不在data里，这里给出生成ESM2特征的网站https://neurosnap.ai/。
